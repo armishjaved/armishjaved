@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think I am funny and I love to cook.**
 
 
-<h3 align="left">🧠 Languages and Tools:</h3>
+<h3 align="left">🧠 Skills:</h3>
 
 <!-- 🧩 Programming Languages -->
 <h4>Programming Languages:</h4>
