@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **San Francisco City Guide** — A Java-based application providing location insights, attractions, and travel utilities for visitors and residents.
 
-- 🌱 I’m currently learning **Java, and CyberSecurity**
+- 🌱 I’m currently learning **Java, and CyberSecurity.**
 
-- 👯 I’m looking to collaborate on **Generative AI, ML, and full-stack open-source projects**
+- 👯 I’m looking to collaborate on **Generative AI, ML, and full-stack open-source projects.**
 
-- 🤝 I’m looking for help with **Building scalable AI-powered web applications**
+- 🤝 I’m looking for help with **Building scalable AI-powered web applications.**
 
-- 👨‍💻 Most of my projects are available at [github.com/armishjaved](github.com/armishjaved)
+- 👨‍💻 Most of my projects are available at [github.com/armishjaved](github.com/armishjaved).
 
-- 💬 Ask me about **React, Django, Python, LLMs, and scalable system design**
+- 💬 Ask me about **React, Django, Python, LLMs, and scalable system design.**
 
-- 📫 How to reach me **armish1javed@gmail.com**
+- 📫 How to reach me: **armish1javed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing](https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny and I love to cook.**
 
