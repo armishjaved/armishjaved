@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armish</h1>
 <h3 align="center">A passionate Full-Stack and AI Engineer</h3>
 
-- 🔭 I’m recently worked on **San Francisco City Guide** — A Java-based application providing location insights, attractions, and travel utilities for visitors and residents.
+- 🔭 I recently worked on **San Francisco City Guide** — A Java-based application providing location insights, attractions, and travel utilities for visitors and residents.
 
 - 🌱 I’m currently learning **how to build a large scale application from scratch.**
 
