@@ -1,70 +1,103 @@
-<h1 align="center">Hi 👋, I'm Armish</h1>
-<h3 align="center">A passionate Full-Stack and AI Engineer</h3>
-
-- 🔭 I recently worked on **San Francisco City Guide** — A Java-based application providing location insights, attractions, and travel utilities for visitors and residents.
-
-- 🌱 I’m currently learning **how to build a large scale application from scratch.**
-
-- 👯 I’m looking to collaborate on **Generative AI, ML, and full-stack open-source projects.**
-
-- 🤝 I’m looking for help with **Building scalable AI-powered web applications.**
-
-- 👨‍💻 Most of my projects are available at [github.com/armishjaved](github.com/armishjaved).
-
-- 💬 Ask me about **React, Django, Python, LLMs, and scalable system design.**
-
-- 📫 How to reach me: **armish1javed@gmail.com**
-
-- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny, I love to cook, and dress up.**
-
-
-<h3 align="left">🧠 Skills:</h3>
-
-<!-- 🧩 Programming Languages -->
-<h4>Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1B8,100:F7D774&height=200&section=header&text=Armish%20Javed&fontColor=3a2f00&fontSize=50&desc=Backend-leaning%20SWE%20%C2%B7%20Applied%20ML%2FNLP%20%C2%B7%20M.S.%20Computer%20Engineering%20%40%20NYU&descSize=17&descAlignY=58&animation=twinkling" alt="Armish Javed"/>
 </p>
 
-<!-- 💻 Frameworks & Libraries -->
-<h4>Frameworks & Libraries:</h4>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/armishjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:armish1javed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dl.acm.org/doi/10.1145/3589334.3645585"><img src="https://img.shields.io/badge/Published-The%20Web%20Conference%20'24-9d7bff?style=for-the-badge" alt="WWW 2024"/></a>
+  <img src="https://komarev.com/ghpvc/?username=armishjaved&style=for-the-badge&color=f5d547&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- 📊 Databases & Visualization -->
-<h4>Databases & Data Visualization:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+---
+
+### 🧑‍💻 About me
+
+- 🔭 Most recently a **Software Engineer Intern at Instawork** (San Francisco), where I built internal outreach tooling used daily by **hundreds** of ops, sales, and support folks — cutting campaign setup time **~95%** and lifting conversation volume **~180%**.
+- 📄 Co-author on a peer-reviewed paper accepted at **The Web Conference '24** — [read it on the ACM Digital Library](https://dl.acm.org/doi/10.1145/3589334.3645585).
+- 🌱 Currently finishing my **M.S. in Computer Engineering at NYU Tandon** (May 2026) and going deep on large-scale system design.
+- ⚡ Comfortable across the stack — happiest in **backend systems** and the **ML layer** above them, with a soft spot for clean frontend and design.
+- 💬 Ask me about **Django, React, Python, PyTorch, RAG / LLMs, and real-time systems**.
+- 📫 Reach me at **armish1javed@gmail.com**
+- 📄 [My Résumé](https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing)
+- 😄 Fun fact: I think I'm funny, I love to cook, and I love to dress up.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Web**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Data & Infra**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 📑 [Ad Exposure in Kids' YouTube Videos](https://dl.acm.org/doi/10.1145/3589334.3645585) | Peer-reviewed paper (**WWW '24**) analyzing 7,500+ videos & 1,500+ ads to expose how weak ad policy fails children | Python · Selenium · PostgreSQL |
+| 🃏 [Rung — Multiplayer Card Game](https://github.com/armishjaved/rung_game) | Real-time 4-player card game with synced state & live chat | React · Socket.IO · TypeScript |
+| 🌉 [SF City Guide](https://github.com/armishjaved/San-Francisco-City-Guide) | Multithreaded Java + Swing city explorer with live data & JDBC persistence | Java · Swing · JDBC |
+| 🧪 [Comment Toxicity Classifier](https://github.com/armishjaved/CommentToxicityClassification) | Self-taught first ML build — fine-tuned DistilBERT to 85.5% accuracy in two epochs | PyTorch · DistilBERT |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=armishjaved&show_icons=true&hide_border=true&title_color=8a6d00&icon_color=9d7bff&text_color=3a2f00&bg_color=FFF6D6" alt="Armish's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armishjaved&layout=compact&hide_border=true&title_color=8a6d00&text_color=3a2f00&bg_color=FFF6D6" alt="Top languages"/>
 </p>
 
-<!-- ☁️ Cloud & DevOps -->
-<h4>Cloud & DevOps:</h4>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armishjaved&hide_border=true&background=FFF6D6&stroke=9d7bff&ring=E0A800&fire=E0A800&text=3a2f00&dates=8a6d00&currStreakLabel=8a6d00&sideNums=3a2f00&sideLabels=8a6d00" alt="GitHub streak"/>
 </p>
 
-<!-- 🧰 Tools -->
-<h4>Tools:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D774,100:FFF1B8&height=120&section=footer" alt=""/>
 </p>
-
