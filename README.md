@@ -1,6 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1B8,100:F7D774&height=200&section=header&text=Armish%20Javed&fontColor=3a2f00&fontSize=50&desc=Backend-leaning%20SWE%20%C2%B7%20Applied%20ML%2FNLP%20%C2%B7%20M.S.%20Computer%20Engineering%20%40%20NYU&descSize=17&descAlignY=58&animation=twinkling" alt="Armish Javed"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5d547,100:9d7bff&height=150&section=header" alt=""/>
 </p>
+
+<h1 align="center">Hi, I'm Armish 👋</h1>
+<h3 align="center">Backend-leaning Software Engineer · Applied ML / NLP · M.S. Computer Engineering @ NYU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armishjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,7 +18,7 @@
 
 - 🔭 Most recently a **Software Engineer Intern at Instawork** (San Francisco), where I built internal outreach tooling used daily by **hundreds** of ops, sales, and support folks — cutting campaign setup time **~95%** and lifting conversation volume **~180%**.
 - 📄 Co-author on a peer-reviewed paper accepted at **The Web Conference '24** — [read it on the ACM Digital Library](https://dl.acm.org/doi/10.1145/3589334.3645585).
-- 🌱 Currently finishing my **M.S. in Computer Engineering at NYU Tandon** (May 2026) and going deep on large-scale system design.
+- 🎓 Recently completed my **M.S. in Computer Engineering at NYU Tandon** (May 2026); now going deep on large-scale system design.
 - ⚡ Comfortable across the stack — happiest in **backend systems** and the **ML layer** above them, with a soft spot for clean frontend and design.
 - 💬 Ask me about **Django, React, Python, PyTorch, RAG / LLMs, and real-time systems**.
 - 📫 Reach me at **armish1javed@gmail.com**
@@ -90,14 +93,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=armishjaved&show_icons=true&hide_border=true&title_color=8a6d00&icon_color=9d7bff&text_color=3a2f00&bg_color=FFF6D6" alt="Armish's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armishjaved&layout=compact&hide_border=true&title_color=8a6d00&text_color=3a2f00&bg_color=FFF6D6" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=armishjaved&show_icons=true&hide_border=true&title_color=f5d547&icon_color=9d7bff&text_color=c9d1d9&bg_color=0d1117" alt="Armish's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armishjaved&layout=compact&hide_border=true&title_color=f5d547&text_color=c9d1d9&bg_color=0d1117" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armishjaved&hide_border=true&background=FFF6D6&stroke=9d7bff&ring=E0A800&fire=E0A800&text=3a2f00&dates=8a6d00&currStreakLabel=8a6d00&sideNums=3a2f00&sideLabels=8a6d00" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armishjaved&hide_border=true&background=0d1117&stroke=9d7bff&ring=f5d547&fire=f5d547&currStreakLabel=f5d547" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D774,100:FFF1B8&height=120&section=footer" alt=""/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d7bff,100:f5d547&height=120&section=footer" alt=""/>
 </p>
