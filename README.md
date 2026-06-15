@@ -23,7 +23,7 @@
 - ⚡ Comfortable across the stack — happiest in **backend systems** and the **ML layer** above them, with a soft spot for clean frontend and design.
 - 💬 Ask me about **Django, React, Python, PyTorch, RAG / LLMs, and real-time systems**.
 - 📫 Reach me at **armish1javed@gmail.com**
-- 📄 [My Résumé](https://drive.google.com/file/d/10s23NWmwNdxIG1C9l9NlKE2ys2pEeUtU/view?usp=sharing)
+- 📄 [My Résumé](https://armishjaved.vercel.app/resume.pdf)
 - 😄 Fun fact: I think I'm funny, I love to cook, and I love to dress up.
 
 ---
