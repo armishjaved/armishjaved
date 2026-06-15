@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/armishjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:armish1javed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://armishjaved.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://dl.acm.org/doi/10.1145/3589334.3645585"><img src="https://img.shields.io/badge/Published-The%20Web%20Conference%20'24-9d7bff?style=for-the-badge" alt="WWW 2024"/></a>
   <img src="https://komarev.com/ghpvc/?username=armishjaved&style=for-the-badge&color=f5d547&label=Profile+Views" alt="Profile views"/>
 </p>
