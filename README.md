@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Armish 👋</h1>
-<h3 align="center">Co-founder & CTO (stealth) · Backend-leaning SWE · Applied ML / Agentic AI · M.S. Computer Engineering @ NYU</h3>
+<h3 align="center">Co-founder & CTO @ Viberan · Backend-leaning SWE · Applied ML / Agentic AI · M.S. Computer Engineering @ NYU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armishjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About me
 
-- 🚀 **Co-founder & CTO** at an early-stage startup (stealth) — I build across the full stack and lead the AI architecture: **Django + React**, **AWS (S3 · CloudFront)**, **Celery** for async precompute, and **agentic LLM systems**, all shipped via GitHub Actions CI/CD.
+- 🚀 **Co-founder & CTO at Viberan** (early-stage startup) — I build across the full stack and lead the AI architecture: **Django + React**, **AWS (S3 · CloudFront)**, **Celery** for async precompute, and **agentic LLM systems**, all shipped via GitHub Actions CI/CD.
 - 🔭 Previously a **Software Engineer Intern at Instawork** (San Francisco), where I built internal outreach tooling used daily by **hundreds** of ops, sales, and support folks — cutting campaign setup time **~95%** and lifting conversation volume **~180%**.
 - 📄 Co-author on a peer-reviewed paper accepted at **The Web Conference '24** — [read it on the ACM Digital Library](https://dl.acm.org/doi/10.1145/3589334.3645585).
 - 🎓 Recently completed my **M.S. in Computer Engineering at NYU Tandon** (May 2026); now going deep on large-scale system design.
